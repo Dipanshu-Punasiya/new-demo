@@ -39,4 +39,9 @@ COMMIT :
    * ->  Itna karne ke baad keval hum humare local level pe commit kar chuke honge yadi hume isse humare github pe 
          bhi show karana hai to hume "push" camand ka use karna hoga.
 
-         
+
+PUSh COMMAND : 
+                push - upload local repo content to remote repo
+
+                remote repo : it avaliable on github for everyone 
+                local repo : only for the your you or your laptop/pc
