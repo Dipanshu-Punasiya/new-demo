@@ -32,4 +32,4 @@ ADD :
 COMMIT : 
         Commit command is used to record the changes 
 
-        git commit-m"somemessage"
+        git commit-m"somemessage"  // add some meaningfull message 
