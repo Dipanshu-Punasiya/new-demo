@@ -33,3 +33,10 @@ COMMIT :
         Commit command is used to record the changes 
 
         git commit-m"somemessage"  // add some meaningfull message 
+
+
+
+   * ->  Itna karne ke baad keval hum humare local level pe commit kar chuke honge yadi hume isse humare github pe 
+         bhi show karana hai to hume "push" camand ka use karna hoga.
+
+         
