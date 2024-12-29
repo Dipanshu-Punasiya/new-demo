@@ -1,0 +1,35 @@
+# yeh tab possible hai jab hum hum git ka use kisi compiler pe kare
+# direct git hub pe na kare tab 
+
+*   Git clone : 
+            This is a clone or copy of github repo
+
+            syntax :  git clone (link of repo) 
+
+
+*   Git Status :
+            This is show the Status of the repo or code
+
+                syntax : git status 
+
+    $   Satus Types :
+
+            1) Modified : New Files that git doesn't yet track
+            2) Untracked : modified some thing in any repo
+            3) Staged : file is ready to be commited
+            4) Unmodified : file is not to be modified 
+
+
+# ADD AND COMMIT COMMAND :
+
+ADD :  
+    Add command is used to adds new or changed files in your working 
+    directory to the git staging area.
+
+    git add< -filename- >
+
+
+COMMIT : 
+        Commit command is used to record the changes 
+
+        git commit-m"somemessage"
