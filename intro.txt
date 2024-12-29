@@ -45,3 +45,13 @@ PUSh COMMAND :
 
                 remote repo : it avaliable on github for everyone 
                 local repo : only for the your you or your laptop/pc
+
+
+        Syntax : git push origin main 
+
+        git push -> this is command to push the file
+
+        origin : origin ka matlab , yeh ek name hai jo hum github ki repo ko clone karke compiler me late hai uska name hai yeh 
+
+        main : main humare github ka branch name hai  
+
